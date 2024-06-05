@@ -112,7 +112,7 @@ Future<void> deletenote(String type, int index) async {
 }
 
 void mails() async {
-  const url = 'http://192.168.207.225:8000/';
+  const url = '';//Your IP Address
   // try {
   //   var ipAddress = IpAddress(type: RequestType.json);
   //   dynamic data = await ipAddress.getIpAddress();
