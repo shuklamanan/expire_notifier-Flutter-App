@@ -60,6 +60,36 @@ flutter pub get
 
 - Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
+# Output
+- The first picture shows the interface for creating a new user account.
+- ![1](https://github.com/shuklamanan/expire_notifier-Flutter-App/assets/102906369/e1e37382-e785-47d5-b61c-ba89a8e8569e)
+- The second picture displays the login screen for existing users.
+- ![2](https://github.com/shuklamanan/expire_notifier-Flutter-App/assets/102906369/f6d2b727-b6e0-4666-bb73-e420df59dcd1)
+- In the third picture, the user has entered their email and password on the login page.
+- ![third](https://github.com/shuklamanan/expire_notifier-Flutter-App/assets/102906369/278b583b-378e-4860-ad71-f7bcbd97f811)
+- The fourth picture features the home screen of the application with five categories and an "Add Items" button at the bottom right.
+- ![fourth](https://github.com/shuklamanan/expire_notifier-Flutter-App/assets/102906369/5a3c88cf-b45b-46f1-809a-a3d24084628e)
+- The fifth picture shows a dialog box that appears when the "Add Item" button is clicked.
+- ![fifth](https://github.com/shuklamanan/expire_notifier-Flutter-App/assets/102906369/1b99ba1c-f178-4e53-96ca-50771b8eecde)
+- The sixth picture displays a default category screen showing "No Notes" when there are no items.
+- ![sixth](https://github.com/shuklamanan/expire_notifier-Flutter-App/assets/102906369/47d156d4-8ece-441c-81ec-45653f4f7469)
+- The seventh picture shows another category screen with the message "No Notes" indicating no items are present.
+- ![seventh](https://github.com/shuklamanan/expire_notifier-Flutter-App/assets/102906369/e306466f-1c33-40fc-b9b4-2ee01f4b7fea)
+- In the eighth picture, details about an item, including its expiry time and category, are being added.
+- ![eigthth](https://github.com/shuklamanan/expire_notifier-Flutter-App/assets/102906369/b6c7ae5e-235b-4b5f-8f9c-beacf86ec985)
+- The ninth picture shows the item added to a specific category.
+- ![ninth](https://github.com/shuklamanan/expire_notifier-Flutter-App/assets/102906369/17de35d2-54aa-423a-98cb-e7c77bcda009)
+- The tenth picture confirms the item has been added to its category.
+- ![3](https://github.com/shuklamanan/expire_notifier-Flutter-App/assets/102906369/5f48f9e8-09ef-46ff-9a3e-d6be31b829b7)
+- The eleventh picture demonstrates the right swipe action for deleting a particular item.
+- ![eleventh](https://github.com/shuklamanan/expire_notifier-Flutter-App/assets/102906369/c6ef3442-247a-41f1-954f-024fcd477361)
+- The twelfth picture shows an item entered in a category that is about to expire within 10 days.
+- ![twelveth](https://github.com/shuklamanan/expire_notifier-Flutter-App/assets/102906369/f21c10e3-bb04-4d3f-b4d9-177f2e551e68)
+- The thirteenth picture confirms the item is added to a particular category.
+- ![thirteenth](https://github.com/shuklamanan/expire_notifier-Flutter-App/assets/102906369/6f5aa6f0-19b0-41f4-b1cd-a9631cf1d77a)
+- The fourteenth picture shows an email being sent automatically for an item expiring within 10 days using Node.js (Nodemailer) package.
+- ![fourteenth](https://github.com/shuklamanan/expire_notifier-Flutter-App/assets/102906369/07d81b33-da9e-4855-9f87-19dcf72b6e9d)
+
 ## Fork the repository.
 1. Create a new branch (git checkout -b feature-branch).
 2. Commit your changes (git commit -m 'Add some feature').
