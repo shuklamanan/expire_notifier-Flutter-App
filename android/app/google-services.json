@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722895189626",
+    "project_id": "expire-notifier-b08eb",
+    "storage_bucket": "expire-notifier-b08eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722895189626:android:c1d15bf5ab2a6f271dadc3",
+        "android_client_info": {
+          "package_name": "com.example.expire_notifier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI1tJMvmKm8wQxigdf1gFRe56d1IJxVKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
